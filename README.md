@@ -12,8 +12,6 @@ A simple To-Do application that allows users to create, edit, delete, and track 
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
   - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
   - [Acknowledgements](#acknowledgements)
 
 ## Introduction
